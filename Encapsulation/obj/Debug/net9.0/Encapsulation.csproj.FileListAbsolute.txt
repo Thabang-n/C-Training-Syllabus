@@ -1,0 +1,15 @@
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.sourcelink.json
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Exaze TRSA28\OneDrive - EXAZEIT\Documents\C# Training Syllabus\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll
